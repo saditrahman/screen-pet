@@ -9,7 +9,7 @@ While working, I understood the graphic section of Tkinter which is Python's GUI
 
 Screenshot:
 
-<img src='https://github.com/saditrahman/screen-pet/blob/main/Picture1.png'></img>
+<img src='https://github.com/saditrahman/screen-pet/blob/main/Picture1.png' height="120px" width="220px"></img>
 
 
  
